@@ -1,2 +1,5 @@
 # Temporary files
 .netrwhist
+
+# Vundle installs
+./bundle
