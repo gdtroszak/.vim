@@ -28,6 +28,7 @@ filetype plugin indent on
 " end Vundle config
 
 " Colors
+set t_Co=256        " force vim to use 256 colors
 colorscheme molokai	" set colorscheme
 syntax enable		" syntax highlighting on
 

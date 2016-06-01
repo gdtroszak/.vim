@@ -2,4 +2,4 @@
 .netrwhist
 
 # Vundle installs
-./bundle
+bundle/
