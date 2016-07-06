@@ -23,6 +23,10 @@ Plugin 'jmcantrell/vim-virtualenv'      " for working with virtualenvs
 " Ruby specific
 Plugin 'vim-ruby/vim-ruby'  " ruby for vim
 
+" Javascript specific
+Plugin 'pangloss/vim-javascript'
+Plugin 'nathanaelkane/vim-indent-guides'
+
 call vundle#end()
 filetype plugin indent on
 " end Vundle config
