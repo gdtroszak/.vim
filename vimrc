@@ -19,6 +19,7 @@ Plugin 'tmhedberg/SimpylFold'           " code folding for Python
 Plugin 'vim-scripts/indentpython.vim'   " sane indenting for Python
 Plugin 'nvie/vim-flake8'                " PEP8 checking 
 Plugin 'jmcantrell/vim-virtualenv'      " for working with virtualenvs
+Plugin 'davidhalter/jedi-vim'           " Python autocompletion
 
 " Ruby specific
 Plugin 'vim-ruby/vim-ruby'  " ruby for vim

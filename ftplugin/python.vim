@@ -19,4 +19,4 @@ set fileformat=unix	" for reading and writing line end characters
 set encoding=utf-8  " use utf-8 for character encoding
 
 " vim-flake8
-" autocmd BufWritePost *.py call Flake8() " run Flake8 on write
+autocmd BufWritePost *.py call Flake8() " run Flake8 on write
