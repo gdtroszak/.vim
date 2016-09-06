@@ -28,6 +28,9 @@ Plugin 'vim-ruby/vim-ruby'  " ruby for vim
 Plugin 'pangloss/vim-javascript'
 Plugin 'nathanaelkane/vim-indent-guides'
 
+" Scala specific
+Plugin 'derekwyatt/vim-scala'
+
 call vundle#end()
 filetype plugin indent on
 " end Vundle config
