@@ -75,3 +75,4 @@ nnoremap <C-H> <C-W><C-H>
 
 " CtrlP
 let g:ctrlp_show_hidden=1   " show hidden files when searching
+let g:ctrlp_custom_ignore={'dir': '\v[\/]*\.(git|tox|egg-info)$'}
